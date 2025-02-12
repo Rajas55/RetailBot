@@ -10,7 +10,7 @@ public class BotRestApplication  {
 	public static void main(String[] args) {
 
 		SpringApplication.run(BotRestApplication.class, args);
-		//Main Class to run the bot
+
 
 	}
 
